@@ -1,4 +1,4 @@
-# NSGAII
+# Symbolic and Evolutionary Artificial Intelligence Project
 # NSGA-II Fast Non-Dominated Sort Algorithm with SIMD Optimization
 
 ## Introduction
